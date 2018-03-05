@@ -12,5 +12,5 @@ upload local picture to Wordpress using xml-rpc
 
 48行：将本地文件路径替换
 ## 参考
-* [https://codex.wordpress.org/XML-RPC_WordPress_API]{https://codex.wordpress.org/XML-RPC_WordPress_API}
-* [http://python-wordpress-xmlrpc.readthedocs.io/en/latest/overview.html]{http://python-wordpress-xmlrpc.readthedocs.io/en/latest/overview.html}
+* ![https://codex.wordpress.org/XML-RPC_WordPress_API]{https://codex.wordpress.org/XML-RPC_WordPress_API}
+* ![http://python-wordpress-xmlrpc.readthedocs.io/en/latest/overview.html]{http://python-wordpress-xmlrpc.readthedocs.io/en/latest/overview.html}
